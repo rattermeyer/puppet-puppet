@@ -1,4 +1,4 @@
-name    'rat/puppet'
+name    'rattermeyer-puppet'
 version '0.1.0'
 source 'UNKNOWN'
 author 'Richard Attermeyer'
